@@ -108,10 +108,3 @@ The science runs **once, offline**. The API clips the drawn area to the Pantanal
 - From fire days to burned area.
 - The whole Pantanal, across the Bolivian and Paraguayan borders.
 
-## Team
-
-[ADD TEAM NAME] · NASA Space Apps Challenge 2026 · [ADD LOCAL EVENT]
-
-- [Name] — [role]
-- [Name] — [role]
-- [Name] — [role]
