@@ -9,7 +9,6 @@
 | 🗺️  | **[front](https://github.com/Brasa-Space-Apps/front)** | The web app: map, area drawing and the fire-history dashboard (Next.js, MapLibre, ECharts)             |
 | 🔥  | **[back](https://github.com/Brasa-Space-Apps/back)**   | The data pipeline, the harmonization method and its validation, and the API (Python, PostGIS, FastAPI) |
 
-**Live API:** [back-mrhi.onrender.com/docs](https://back-mrhi.onrender.com/docs) · **Demo:** [ADD DEMO URL]
 
 ---
 
