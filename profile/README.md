@@ -94,7 +94,7 @@ flowchart LR
 The science runs **once, offline**. The API clips the drawn area to the Pantanal, covers it with hexagons and sums pre-computed values, so every click is a quick lookup. The method, the API contract and how to run everything locally are documented in each repository.
 
 ## Data
-
+- **Method reference:** Chen et al. (2026), GFED5NRT, *Earth Syst. Sci. Data* 18, 7535–7555 — [doi.org/10.5194/essd-18-7535-2026](https://doi.org/10.5194/essd-18-7535-2026).
 - **[NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)**: MODIS Collection 6.1 (Aqua) and VIIRS 375 m (Suomi NPP) active fire archives.
 - **IBGE**: Brazilian biome boundaries, 2019 (1:250,000).
 - **INPE / Programa Queimadas**: annual hotspots of the reference satellite, used only to cross-check the year ranking.
